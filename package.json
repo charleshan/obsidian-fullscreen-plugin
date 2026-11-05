@@ -10,7 +10,7 @@
 		"typecheck": "tsc --noEmit",
 		"version": "node version-bump.mjs && git add manifest.json versions.json"
 	},
-	"author": "Razum",
+	"author": "Charles Han",
 	"license": "MIT",
 	"devDependencies": {
 		"esbuild": "^0.28.2",

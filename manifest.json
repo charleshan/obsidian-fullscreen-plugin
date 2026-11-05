@@ -4,7 +4,7 @@
 	"version": "0.2.0",
 	"minAppVersion": "1.0.0",
 	"description": "This plugin allows viewing a single document in fullscreen focus mode",
-	"author": "Razum",
-	"authorUrl": "https://github.com/Razumihin",
+	"author": "Charles Han",
+	"authorUrl": "https://github.com/charleshan",
 	"isDesktopOnly": true
 }
