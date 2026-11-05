@@ -1,0 +1,4 @@
+/* The fullscreen element otherwise sits on the browser's default black backdrop. */
+.workspace-leaf-content:fullscreen {
+	background-color: var(--background-primary);
+}
